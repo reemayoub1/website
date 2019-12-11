@@ -1,0 +1,14 @@
+and my resume.
+]0;/stor/home/ra35556/Website]0;ra35556@educcomp01: ~/Website[01;32mra35556@educcomp01[00m:[01;34m~/Website[00m$ and my resume.
+
+Command 'and' not found, but can be installed with:
+
+apt install and
+Please ask your administrator.
+
+]0;/stor/home/ra35556/Website]0;ra35556@educcomp01: ~/Website[01;32mra35556@educcomp01[00m:[01;34m~/Website[00m$ 
+]0;/stor/home/ra35556/Website]0;ra35556@educcomp01: ~/Website[01;32mra35556@educcomp01[00m:[01;34m~/Website[00m$ pwd
+/stor/home/ra35556/Website
+]0;/stor/home/ra35556/Website]0;ra35556@educcomp01: ~/Website[01;32mra35556@educcomp01[00m:[01;34m~/Website[00m$ git init
+Reinitialized existing Git repository in /stor/home/ra35556/Website/.git/
+]0;/stor/home/ra35556/Website]0;ra35556@educcomp01: ~/Website[01;32mra35556@educcomp01[00m:[01;34m~/Website[00m$ git add . [K

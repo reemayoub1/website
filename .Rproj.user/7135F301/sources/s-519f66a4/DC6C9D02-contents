@@ -1,0 +1,6 @@
+#run to install the blogdown package; wait until finished
+install.packages("blogdown")
+blogdown::install_hugo()
+blogdown::update_hugo(force = T)
+blogdown::new_site(theme = "gcushen/hugo-academic")
+blogdown::serve_site()
